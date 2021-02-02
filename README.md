@@ -15,3 +15,4 @@ contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipeline.
 
 Updated on 2021-01-31 by J. Evans.
+Updated again on 2021-02-02 by J. Evans.
